@@ -1,0 +1,12 @@
+/* .box-margins {
+    margin: 15px;
+    display: inline-block;
+} */
+
+.box-margins {
+    display: inline-flex;
+    margin: 15px;
+    justify-content: center;
+    align-items: center;
+    
+}
